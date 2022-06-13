@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kaqm6NaW5oYjvpLDsMtk4xQ6lDnEzcsJJQYvdfST9YAZbAc4D4Lb+rrYTxp6aNVj1VHOThHxYxLAEv0gbVPUUA==",
+  "success": true,
+  "projectFilePath": "/Users/gumby/Projects/EStore2022/EStore2022/EStore2022.csproj",
+  "expectedPackageFiles": [
+    "/Users/gumby/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
